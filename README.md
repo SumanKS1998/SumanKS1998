@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Assam,INDIA.</h3>
 
  
-🔭 I’m currently working on a grocery ordering PWA for the people of Guwahati.  <br><br>🌱 I’m currently learning Native app development React Native<br><br>💬 Ask me about React, Express, Next, Firebase, Material UI<br><br>📫 How to reach me sinhasumank41@gmail.com
+🔭 I’m currently working on a grocery ordering PWA for A-Z Mega Mart.  <br><br>🌱 I’m currently learning Native app development React Native<br><br>💬 Ask me about React, Express, Next, Firebase, Material UI<br><br>📫 How to reach me sinhasumank41@gmail.com
 
 
 # 💻 Tech Stack:
