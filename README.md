@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Kumar Sinha</h1>
 <h3 align="center">A passionate Full Stack Developer from Assam,INDIA.</h3>
 
- 
- <br>🌱 I’m currently learning Native app development React Native<br><br>💬 Ask me about React, Express, Next, Firebase, Material UI<br><br>📫 How to reach me sinhasumank41@gmail.com
+💬 Ask me about React, Express, Next, Firebase, Material UI<br><br>📫 How to reach me sinhasumank41@gmail.com
 
 
 # 💻 Tech Stack:
